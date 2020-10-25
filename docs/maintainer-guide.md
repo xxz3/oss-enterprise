@@ -37,7 +37,7 @@ Create clear documentation for your project to explain the following to your fut
 ### Encouraging Contributions
 
 An Open Source project is stronger when it has an active and passionate community. However, it can be challenging for new contributors to get started. Here are a few tips to help you build a stronger community:
-
+as
 - Add labels such as `good-first-PR` or `help-wanted` to Issues and Pull Requests to encourage contributions
 - Hold virtual office hours for your project to allow the community to connect and discuss challenging problems
 - Create great documentation that helps users understand how to use your project, this will make community support a useful task for new contributors  
